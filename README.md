@@ -1,5 +1,5 @@
 # Lightweight Deep Learning Intrusion Detection System for IoT-Enabled Smart Homes  
-**Final Year Project – HITEC University Taxila (2023)**  
+**Final Year Project – HITEC University Taxila**  
 **Supervisor:** Dr. Hasna Arshad (Assistant Professor, Department of Computer Science)  
 **Author:** Muhammad Usman – usman55340@gmail.com  
 **LinkedIn:** https://linkedin.com/in/muhammadusman032  
